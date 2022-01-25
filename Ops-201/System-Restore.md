@@ -1,1 +1,3 @@
+# System Restore
 
+System Restore is a Windows tool that enables a user to restore Windows from a previous restore point that was captured. When the pc is restored it undoes everything that happened after since the restore point was created. Since the majority of issues on Windows stem from an issue with the OS, System Restore is often the best way to solve the problem instead of spending hours of time troubleshooting. It's also very fast and easy. All one has to do is to type System Restore in the search bar and select the option to restore Windows. There is a button in the dialogue window that says System Restore- just click it and follow the prompts and then the System Restore is complete.
