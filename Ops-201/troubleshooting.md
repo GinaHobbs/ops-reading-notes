@@ -2,7 +2,7 @@
 
 ## Troubleshooting Steps
 
-1. Identify information and duplicate the problem - document all issues so you can understand what the total issue might be. Also be sure to \ask the end user about what's happening - they are the most familiar with their computer setup and recent changes that occured before the problem started. They are also most familiar with what happens before, during and after their issue.
+1. Identify information and duplicate the problem - document all issues so you can understand what the total issue might be. Also be sure to ask the end user about what's happening - they are the most familiar with their computer setup and recent changes that occured before the problem started. They are also most familiar with what happens before, during and after their issue.
 
 2. Isolate the problem - starting with the most obvious and simplest issues is often best. However, it is also impiortant to consider every possible scenario, even ones that are not obvious. 
 
