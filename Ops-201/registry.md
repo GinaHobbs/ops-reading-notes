@@ -1,2 +1,3 @@
 # Windows Registry Demystified
 
+The Windows Registry is a database where Windows and many programs store their configuration settings. There are system wide registry settings that apply to all users, and each Windows user account also has its own user-soecific settings. Whenever a program's settings are changed they are also changed in the registry. The registry contains keys and values, and inside those keys it can contain numbers, text or other data. Messing with registry values can make your system unbootable. To edit the registry type regedit.exe in the run dialog.
